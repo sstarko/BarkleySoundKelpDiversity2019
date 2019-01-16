@@ -1,6 +1,6 @@
 # BarkleySoundKelpDiversity2019
 
-This is the data and code repository for Starko et al (2019). "Environmental heterogeneity mediates scale-dependent biodiversity loss in intertidal kelp communties." PLoS ONE. 
+This is the data and code repository for Starko et al (2019). "Environmental heterogeneity mediates scale-dependent biodiversity loss in intertidal kelp communties." 
 
 Two R scripts are included. One for proportional odds modeling and plotting of ordinal mosaic plots ("Ordinal_regressions.R") and the other for all remaining analyses ("KelpDiversityCode.R")
 
